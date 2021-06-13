@@ -1,0 +1,36 @@
+﻿62	Washington
+59	Washington
+104	Washington
+44	Washington
+45	Washington
+46	Washington
+66	Washington
+22	Washington
+27	Washington
+39	Washington
+9	Washington
+35	Miami
+97	Miami
+99	Miami
+140	Miami
+25	London
+36	London
+63	London
+68	London
+83	London
+88	London
+92	London
+134	London
+65	Las Vegas
+72	Las Vegas
+73	Las Vegas
+85	Las Vegas
+10	Frankfurt
+21	Frankfurt
+26	Frankfurt
+28	Frankfurt
+32	Frankfurt
+69	Frankfurt
+105	Frankfurt
+123	Frankfurt
+137	Frankfurt
