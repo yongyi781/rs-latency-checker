@@ -61,7 +61,7 @@ namespace RSLatencyChecker
                 Console.ReadKey(true);
                 return;
             }
-            var worlds = (from line in File.ReadAllLines(FileName) select line.Split(null)).ToArray();
+            var worlds = (from line in File.ReadAllLines(FileName) select line.Split(null, 2)).ToArray();
             Console.WriteLine($"Measuring latency from {worlds.Length} servers ({trials} trials) on port {port}...");
             var sw = Stopwatch.StartNew();
             var task = Task.WhenAll((from world in worlds
